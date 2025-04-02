@@ -126,7 +126,7 @@ nav .fa-solid{
     .nav-links {
         position: absolute;
         background:hsl(41, 90%, 49%);
-        height: 100vh;
+        height: 60%;
         width: 150px;
         top: 0;
         right: -200px;
