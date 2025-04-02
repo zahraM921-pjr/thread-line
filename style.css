@@ -105,7 +105,7 @@ nav .fa-solid{
 
     .header{
         min-height: 80vh;
-        width: 80%;
+        width: 100%;
     }
     
     .text-box h1{
@@ -126,7 +126,7 @@ nav .fa-solid{
     .nav-links {
         position: absolute;
         background:hsl(41, 90%, 49%);
-        height: 60%;
+        height: 80%;
         width: 150px;
         top: 0;
         right: -200px;
